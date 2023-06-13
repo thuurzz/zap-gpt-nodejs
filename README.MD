@@ -1,4 +1,4 @@
-# Meu Projeto de Integração G-Mail e WhatsApp
+# Meu Projeto de Integração ChatGPT e WhatsApp
 
 Este é um projeto que integra o WhatsApp usando as bibliotecas openai, whatsapp-webjs e dotenv. Ele permite receber e processar mensagens usando o GPT-3 da OpenAI e responder automaticamente pelo WhatsApp.
 
